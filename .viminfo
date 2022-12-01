@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1669867380,,"wq"
+|2,0,1669900739,,"wq"
 :Wq
 |2,0,1669864598,,"Wq"
 
@@ -27,22 +27,34 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/shopping/clothes.txt
-|4,48,1,4,1669867380,"~/shopping/clothes.txt"
-'1  1  82  ~/batthad/welcome.txt
-|4,49,1,82,1669864601,"~/batthad/welcome.txt"
-'2  1  40  ~/batthad/hi.txt
-|4,50,1,40,1669817504,"~/batthad/hi.txt"
-'3  1  6  ~/training/hello.txt
-|4,51,1,6,1669816470,"~/training/hello.txt"
+'0  9  6  ~/application/index.html
+|4,48,9,6,1669900739,"~/application/index.html"
+'1  1  4  ~/shopping/clothes.txt
+|4,49,1,4,1669867380,"~/shopping/clothes.txt"
+'2  1  82  ~/batthad/welcome.txt
+|4,50,1,82,1669864601,"~/batthad/welcome.txt"
+'3  1  40  ~/batthad/hi.txt
+|4,51,1,40,1669817504,"~/batthad/hi.txt"
+'4  1  6  ~/training/hello.txt
+|4,52,1,6,1669816470,"~/training/hello.txt"
 
 # Jumplist (newest first):
+-'  9  6  ~/application/index.html
+|4,39,9,6,1669900739,"~/application/index.html"
+-'  1  0  ~/application/index.html
+|4,39,1,0,1669900696,"~/application/index.html"
+-'  1  4  ~/shopping/clothes.txt
+|4,39,1,4,1669867380,"~/shopping/clothes.txt"
 -'  1  4  ~/shopping/clothes.txt
 |4,39,1,4,1669867380,"~/shopping/clothes.txt"
 -'  1  82  ~/batthad/welcome.txt
 |4,39,1,82,1669864601,"~/batthad/welcome.txt"
 -'  1  82  ~/batthad/welcome.txt
 |4,39,1,82,1669864601,"~/batthad/welcome.txt"
+-'  1  82  ~/batthad/welcome.txt
+|4,39,1,82,1669864601,"~/batthad/welcome.txt"
+-'  1  82  ~/batthad/welcome.txt
+|4,39,1,82,1669864601,"~/batthad/welcome.txt"
 -'  1  40  ~/batthad/hi.txt
 |4,39,1,40,1669817504,"~/batthad/hi.txt"
 -'  1  40  ~/batthad/hi.txt
@@ -51,6 +63,30 @@
 |4,39,1,40,1669817504,"~/batthad/hi.txt"
 -'  1  40  ~/batthad/hi.txt
 |4,39,1,40,1669817504,"~/batthad/hi.txt"
+-'  1  40  ~/batthad/hi.txt
+|4,39,1,40,1669817504,"~/batthad/hi.txt"
+-'  1  40  ~/batthad/hi.txt
+|4,39,1,40,1669817504,"~/batthad/hi.txt"
+-'  1  40  ~/batthad/hi.txt
+|4,39,1,40,1669817504,"~/batthad/hi.txt"
+-'  1  40  ~/batthad/hi.txt
+|4,39,1,40,1669817504,"~/batthad/hi.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
+-'  1  6  ~/training/hello.txt
+|4,39,1,6,1669816470,"~/training/hello.txt"
 -'  1  6  ~/training/hello.txt
 |4,39,1,6,1669816470,"~/training/hello.txt"
 -'  1  6  ~/training/hello.txt
@@ -69,6 +105,13 @@
 |4,39,1,6,1669816470,"~/training/hello.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/application/index.html
+	*	1669900737	0
+	"	9	6
+	^	9	7
+	.	9	7
+	+	9	7
 
 > ~/shopping/clothes.txt
 	*	1669867378	0
